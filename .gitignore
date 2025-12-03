@@ -1,1 +1,23 @@
-.vs
+# Visual Studio cache and build files
+.vs/
+ipch/
+*.ipch
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.pdb
